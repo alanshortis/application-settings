@@ -1,6 +1,6 @@
 # Application Settings
 
-Settings files for OSX apps. Many, mnay more to add.
+Settings files for OSX apps. Many, many more to add.
 
 - Sublime Text 2
 - Terminal
