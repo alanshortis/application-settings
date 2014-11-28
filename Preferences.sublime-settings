@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_indent_guides": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"scroll_past_end": true,
+	"smart_indent": true,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true
+}
