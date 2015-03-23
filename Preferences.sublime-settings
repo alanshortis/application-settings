@@ -9,6 +9,7 @@
 	],
 	"indent_to_bracket": false,
 	"scroll_past_end": true,
+	"word_wrap": false,
 	"smart_indent": true,
 	"tab_size": 4,
 	"theme": "Spacegray.sublime-theme",
