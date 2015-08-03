@@ -1,6 +1,6 @@
 {
-	"theme": "Material-Theme.sublime-theme",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"theme": "Spacegray.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_indent_guides": true,
 	"font_size": 13,
