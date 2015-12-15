@@ -1,1 +1,18 @@
+# System thumbnail and external drives
 .DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Node, Grunt
+.sass-cache
+node_modules
+
+# Bower
+bower_components
+
+# Built and compiled
+*.css
+*.min.js
