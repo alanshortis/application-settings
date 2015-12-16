@@ -96,8 +96,8 @@ defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
 # Enable press-and-hold for keys rather than key repeat
 defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool true
 
-# Set a blazingly fast keyboard repeat rate
-defaults write NSGlobalDomain KeyRepeat -int 0
+# Speed up repeat rate
+defaults write NSGlobalDomain KeyRepeat -int 2
 
 # Stop iTunes from responding to the keyboard media keys
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist 2> /dev/null
