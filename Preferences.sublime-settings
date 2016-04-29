@@ -25,6 +25,7 @@
 	"material_theme_compact_sidebar": true,
 	"material_theme_small_tab": true,
 	"scroll_past_end": true,
-	"tabWidth": 2,
+	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme"
+	"translate_tabs_to_spaces": true
 }
