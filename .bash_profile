@@ -1,3 +1,8 @@
+# Aliases
+alias c="clear";
+alias g="git";
+alias gs="git status";
+
 # Change the command prompt
 export PS1="\u:\W $ ";
 
