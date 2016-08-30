@@ -3,6 +3,7 @@ alias c="clear";
 alias g="git";
 alias gs="git status";
 alias gw="gulp watch";
+alias v="vagrant";
 
 # Change the command prompt
 export PS1="\u:\W $ ";
