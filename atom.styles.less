@@ -4,25 +4,19 @@ atom-text-editor {
 
 atom-text-editor {
   font-family: "OperatorMono-Book";
-  font-size: 16px;
+  font-size: 17px;
   font-weight: normal;
   line-height: 1.7;
 }
 
-atom-panel.tool-panel,
+.tool-panel,
 .tree-view,
 .tab-bar .tab {
   font-size: .9em;
 }
 
-.editor .comment,
-atom-text-editor.editor .syntax--comment {
+.syntax--comment,
+.syntax--entity.syntax--other.syntax--attribute-name {
   font-family: "OperatorMono-BookItalic";
   font-style: normal;
-}
-
-atom-text-editor::shadow{
-  .entity.other.attribute-name {
-    font-style: italic;
-  }
 }
