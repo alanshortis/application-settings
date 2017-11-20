@@ -263,6 +263,9 @@ defaults write com.apple.dock dashboard-in-overlay -bool true
 # Don’t automatically rearrange Spaces based on most recent use
 defaults write com.apple.dock mru-spaces -bool false
 
+# Don't automatically changes spaces
+defaults write com.apple.dock workspaces-auto-swoosh -bool false
+
 # Add a spacer to the Dock
 #defaults write com.apple.dock persistent-others -array-add '{tile-data={}; tile-type="spacer-tile";}'
 
