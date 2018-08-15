@@ -1,0 +1,46 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "OperatorMono-Book",
+    "editor.fontWeight": "300",
+    "editor.formatOnSave": true,
+    "editor.lineHeight": 25,
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vs-seti",
+    "explorer.openEditors.visible": 0,
+    "editor.accessibilitySupport": "off",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.cursorBlinking": "phase",
+    "editor.renderIndentGuides": false,
+    "files.insertFinalNewline": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "terminal.external.osxExec": "Hyper.app",
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "html.format.endWithNewline": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [{
+        "scope": [
+            "comment",
+            "entity.name.type.class",
+            "keyword",
+            "constant",
+            "storage.modifier",
+            "storage.type.class.js"
+        ],
+        "settings": {
+            "fontStyle": "italic"
+        }
+        }]
+    },
+    "explorer.confirmDelete": false
+}
