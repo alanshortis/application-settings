@@ -26,7 +26,13 @@
   "workbench.activityBar.visible": true,
   "explorer.confirmDelete": false,
   "workbench.colorTheme": "One Dark Pro Vivid",
-  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "workbench.colorCustomizations": {
+    "gitDecoration.ignoredResourceForeground": "#515151",
+    "gitDecoration.modifiedResourceForeground": "#d19a66",
+    "gitDecoration.deletedResourceForeground": "#e06c75",
+    "gitDecoration.untrackedResourceForeground": "#98c379",
+    "gitDecoration.conflictingResourceForeground": "#d19a66"
+  },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
