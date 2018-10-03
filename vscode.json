@@ -11,6 +11,7 @@
   "editor.fontLigatures": false,
   "editor.minimap.enabled": true,
   "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
   "editor.emptySelectionClipboard": false,
   "editor.cursorBlinking": "phase",
   "editor.renderIndentGuides": false,
@@ -57,5 +58,16 @@
         }
       }
     ]
-  }
+  },
+  "sync.gist": "c474add273e01a0d9acaf2535a741ef3",
+  "sync.quietSync": false,
+  "sync.removeExtensions": true,
+  "sync.syncExtensions": true,
+  "sync.autoDownload": false,
+  "sync.autoUpload": false,
+  "sync.forceDownload": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "vsicons.dontShowNewVersionMessage": true,
+  "prettier.requireConfig": true,
+  "workbench.iconTheme": "vscode-icons"
 }
