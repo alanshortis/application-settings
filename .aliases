@@ -1,0 +1,7 @@
+alias c="clear";
+alias g="git";
+alias gs="git status";
+alias up="../";
+alias fucking="sudo";
+alias modsup="cd Sites/mods.core && docker-compose up";
+alias asup="cd Sites/short.is && gatsby develop";
