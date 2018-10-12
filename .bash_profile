@@ -1,13 +1,5 @@
 # Aliases
-alias c="clear";
-alias g="git";
-alias gs="git status";
-alias gw="gulp watch";
-alias v="vagrant";
-alias mods-up="docker-compose -f docker-compose.yml -f docker-compose.override.yml up"
-alias mods-stop="docker stop wordpress_mysql_1 wordpress_php_1"
-alias mods-clean="docker rm wordpress_mysql_1 wordpress_php_1 && docker volume rm wordpress_mysql_data && rm -f .env"
-alias mods-refresh="mods-stop && mods-clean && mods-up"
+[ -f .aliases ] && source .aliases
 
 # Change the command prompt
 export PS1="\u:\W $ ";
