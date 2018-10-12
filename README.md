@@ -1,7 +1,7 @@
 # dotfiles
 
 - OSX settings
-- Sublime Text settings
+- Sublime Text, Atom and VS Code settings
 - Boilerplate gitignore
 - Boilerplate sasslint and eslint rules
-- Bash settings
+- Bash and ZSH, aliases
