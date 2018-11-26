@@ -4,7 +4,7 @@ module.exports = {
     fontSize: 14,
 
     // font family with optional fallbacks
-    fontFamily: "OperatorMono-Light",
+    fontFamily: "Roboto Mono Light for Powerline",
 
     // terminal cursor background color (hex)
     cursorColor: "#F81CE5",
