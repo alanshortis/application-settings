@@ -75,4 +75,10 @@
   "workbench.colorTheme": "One Dark Pro Vivid",
   "workbench.iconTheme": "file-icons",
   "workbench.startupEditor": "newUntitledFile",
+  "nasc-touchbar.addCursorBelow": false,
+  "nasc-touchbar.togglePanel": false,
+  "nasc-touchbar.showCommands": false,
+  "nasc-touchbar.peekDefinition": true,
+  "nasc-touchbar.showReferences": true,
+  "nasc-touchbar.jumpToBracket": true,
 }
