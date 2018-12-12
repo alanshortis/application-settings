@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/c54274a/.oh-my-zsh"
+export ZSH="/Users/alan/.oh-my-zsh"
 
 # Change the displayed username.
 export DEFAULT_USER=`whoami`
@@ -28,7 +28,6 @@ POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
 
 
 plugins=(git extract osx)
-export ZSH="/Users/c54274a/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
