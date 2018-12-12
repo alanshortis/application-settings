@@ -2,3 +2,9 @@ alias c="clear";
 alias g="git";
 alias gs="git status";
 alias fucking="sudo";
+
+# Work stuff
+alias bundle="npm run bundle"
+alias build="cd ~/Sites/corvetteuk-home && npm run build && npm run build:next"
+alias watch="cd ~/Sites/corvetteuk-home && npm run start:watch"
+alias wiremock="cd ~/Sites/corvetteuk-home/automation/src/test/resources/wiremock && java -jar wiremock-standalone-2.6.0.jar --port 9999"
