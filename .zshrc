@@ -27,7 +27,7 @@ POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
 
-plugins=(git extract spotify)
+plugins=(git extract osx)
 export ZSH="/Users/c54274a/.oh-my-zsh"
 source $ZSH/oh-my-zsh.sh
 
