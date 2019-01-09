@@ -55,7 +55,7 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: ["hyperterm-atom-dark", "hyperterm-1password", "hyper-statusline", "hyper-touchbar"],
+  plugins: ["hyperterm-1password", "hyper-statusline", "hyper-touchbar", "hyper-firefox-devtools"],
   
   
   // Set the shell to zsh
