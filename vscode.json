@@ -67,10 +67,10 @@
   "workbench.activityBar.visible": true,
   "workbench.colorCustomizations": {
     "gitDecoration.ignoredResourceForeground": "#515151",
-    "gitDecoration.modifiedResourceForeground": "#d19a66",
-    "gitDecoration.deletedResourceForeground": "#e06c75",
-    "gitDecoration.untrackedResourceForeground": "#98c379",
-    "gitDecoration.conflictingResourceForeground": "#d19a66"
+    "gitDecoration.modifiedResourceForeground": "#D99F2B",
+    "gitDecoration.deletedResourceForeground": "#CC3D3D",
+    "gitDecoration.untrackedResourceForeground": "#86DE74",
+    "gitDecoration.conflictingResourceForeground": "#D99F2B"
   },
   "workbench.colorTheme": "Firefox Dark",
   "workbench.iconTheme": "file-icons",
