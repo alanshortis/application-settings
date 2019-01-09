@@ -72,7 +72,7 @@
     "gitDecoration.untrackedResourceForeground": "#98c379",
     "gitDecoration.conflictingResourceForeground": "#d19a66"
   },
-  "workbench.colorTheme": "One Dark Pro Vivid",
+  "workbench.colorTheme": "Firefox Dark",
   "workbench.iconTheme": "file-icons",
   "workbench.startupEditor": "newUntitledFile",
   "nasc-touchbar.addCursorBelow": false,
