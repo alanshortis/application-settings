@@ -62,6 +62,7 @@
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
   "terminal.external.osxExec": "Hyper.app",
+  "terminal.integrated.fontFamily": "Roboto Mono Light for Powerline",
   "typescript.validate.enable": false,
   "vsicons.dontShowNewVersionMessage": true,
   "workbench.activityBar.visible": true,
