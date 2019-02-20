@@ -82,4 +82,6 @@
   "nasc-touchbar.peekDefinition": true,
   "nasc-touchbar.showReferences": true,
   "nasc-touchbar.jumpToBracket": true,
+  "spotify.showLyricsButton": false,
+  "spotify.showSignOutButton": false,
 }
