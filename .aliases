@@ -3,6 +3,7 @@ alias g="git";
 alias gs="git status";
 alias gp="git push";
 
+alias aliases="cd ~ && code .aliases"
 alias build="cd ~/Sites/corvetteuk-home && npm run build && npm run build:next"
 alias watch="cd ~/Sites/corvetteuk-home && npm run start:watch"
 alias watchbuild="cd ~/Sites/corvetteuk-home && npm run build:watch"
