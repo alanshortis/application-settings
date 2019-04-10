@@ -66,6 +66,7 @@
   "typescript.validate.enable": false,
   "vsicons.dontShowNewVersionMessage": true,
   "workbench.activityBar.visible": true,
+  "workbench.tree.indent": 15,
   "workbench.colorCustomizations": {
     "gitDecoration.ignoredResourceForeground": "#515151",
     "gitDecoration.modifiedResourceForeground": "#D99F2B",
