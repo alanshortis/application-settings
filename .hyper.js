@@ -55,7 +55,7 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: ["hyperterm-1password", "hyper-statusline", "hyper-touchbar", "hyper-one-dark-vivid"],
+  plugins: ["hyper-touchbar", "hyper-one-dark-vivid"],
   
   
   // Set the shell to zsh
