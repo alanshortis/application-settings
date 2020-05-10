@@ -47,20 +47,6 @@
   "emmet.includeLanguages": {
     "markdown": "html"
   },
-  "spellright.language": [
-    "en"
-  ],
-  "spellright.documentTypes": [
-    "markdown",
-    "latex",
-    "plaintext",
-    "mdx"
-  ],
-  "spellright.parserByClass": {
-    "mdx": {
-      "parser": "markdown"
-    }
-  },
   "emmet.triggerExpansionOnTab": true,
   "explorer.confirmDelete": false,
   "explorer.openEditors.visible": 0,
@@ -109,5 +95,20 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "spellright.groupDictionaries": false,
+  "spellright.language": [
+    "en_GB"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "mdx"
+  ],
+  "spellright.parserByClass": {
+    "mdx": {
+      "parser": "markdown"
+    }
+  }
 }
