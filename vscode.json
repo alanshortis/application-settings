@@ -111,5 +111,6 @@
     "mdx": {
       "parser": "markdown"
     }
-  }
+  },
+  "auto-close-tag.activationOnLanguage": ["nunjucks"]
 }
