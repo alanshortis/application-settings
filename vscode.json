@@ -46,7 +46,9 @@
   "emmet.excludeLanguages": [],
   "emmet.includeLanguages": {
     "markdown": "html",
-    "nunjucks": "html"
+    "nunjucks": "html",
+    "postcss": "css"
+
   },
   "emmet.triggerExpansionOnTab": true,
   "explorer.confirmDelete": false,
@@ -58,6 +60,7 @@
   "html.format.endWithNewline": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prettier.requireConfig": true,
+  "prettier.disableLanguages": ["Nunjucks"],
   "sync.autoDownload": true,
   "sync.autoUpload": true,
   "sync.forceDownload": false,
@@ -91,7 +94,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.renderControlCharacters": true,
   "window.zoomLevel": 0,
-  "oneDarkPro.editorTheme": "Onedark Pro",
+  "oneDarkPro.editorTheme": "onedarkPro",
   "oneDarkPro.italic": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
@@ -111,6 +114,5 @@
     "mdx": {
       "parser": "markdown"
     }
-  },
-  "auto-close-tag.activationOnLanguage": ["nunjucks"]
+  }
 }
