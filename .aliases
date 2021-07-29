@@ -2,3 +2,4 @@ alias c="clear";
 alias g="git";
 alias gs="git status";
 alias aliases="cd ~ && code .aliases"
+alias newpost="cd ~/Sites/short.is && npm run new-post"
