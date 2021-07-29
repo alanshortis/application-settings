@@ -1,12 +1,4 @@
 alias c="clear";
 alias g="git";
 alias gs="git status";
-alias gp="git push";
-
 alias aliases="cd ~ && code .aliases"
-alias build="cd ~/Sites/corvetteuk-home && npm run build && npm run build:next"
-alias watch="cd ~/Sites/corvetteuk-home && npm run start:watch"
-alias watchbuild="cd ~/Sites/corvetteuk-home && npm run build:watch"
-alias wiremock="cd ~/Sites/corvetteuk-home/automation-wiremock/src/test/resources/wiremock && java -jar wiremock-standalone-2.6.0.jar --port 9999"
-alias storybook="cd ~/Sites/corvetteuk-home && npm run storybook"
-alias testnext="cd ~/Sites/corvetteuk-home && npm run test:next"
