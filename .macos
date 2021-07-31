@@ -115,8 +115,14 @@ defaults write com.apple.finder FXInfoPanesExpanded -dict \
 	Privileges -bool true
 
 
-# Set the icon size of Dock items to 36 pixels
+# Set the icon size of Dock items
 defaults write com.apple.dock tilesize -int 36
+
+# Set the zoomed size for the Dock items
+defaults write com.apple.dock largesize -int 86
+
+# Autohide the dock
+defaults write com.apple.dock autohide -int 1
 
 # Change minimize/maximize window effect
 defaults write com.apple.dock mineffect -string "scale"
