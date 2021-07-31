@@ -158,7 +158,15 @@ defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int
 # Copy a plain email address from the Mail app
 defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
 
+# Set mouse and trackpad tracking speed
+defaults write -g com.apple.mouse.scaling 3
+defaults write -g com.apple.trackpad.scaling 3
 
+# Disable "Ask Siri"
+defaults write com.apple.assistant.support "Assistant Enabled" -bool false
+
+# Remove siri icon from status menu
+defaults write com.apple.Siri StatusMenuVisible -bool false
 
 
 
