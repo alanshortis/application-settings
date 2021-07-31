@@ -1,0 +1,21 @@
+brew install node
+brew tap homebrew/cask-versions
+
+# Browers
+brew install --cask firefox-developer-edition
+brew install --cask google-chrome
+brew install --cask google-chrome-canary
+
+# Deveopment stuff
+brew install --cask hyper
+brew install --cask postman
+brew install --cask visual-studio-code
+
+# Design/visual stuff
+brew install --cask adobe-creative-cloud
+brew install --cask figma
+brew install --cask vuescan
+
+# Other stuff
+brew install --cask slack
+brew install --cask spotify
