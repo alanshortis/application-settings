@@ -97,8 +97,9 @@
     "source.fixAll.eslint": true
   },
   "diffEditor.ignoreTrimWhitespace": false,
+  "spellright.groupDictionaries": false,
   "spellright.language": [
-    "en_GB"
+    "en-GB"
   ],
   "spellright.documentTypes": [
     "markdown",
