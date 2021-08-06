@@ -4,3 +4,4 @@ alias gs="git status";
 alias gco="git checkout"
 alias aliases="cd ~ && code .aliases"
 alias newpost="cd ~/Sites/short.is && npm run new-post"
+alias dev="npm run dev"
