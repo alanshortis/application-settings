@@ -1,4 +1,5 @@
 brew install node
+brew install tree
 brew tap homebrew/cask-versions
 
 # Browers
