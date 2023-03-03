@@ -20,7 +20,7 @@
   "breadcrumbs.enabled": true,
   "spellright.documentTypes": ["markdown", "latex", "plaintext", "mdx"],
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll": true
   },
   "editor.minimap.renderCharacters": false,
   "explorer.confirmDelete": false,
@@ -64,10 +64,8 @@
   "nasc-touchbar.showCommands": false,
   "spellright.language": ["en-GB"],
   "editor.fontLigatures": false,
-  "telemetry.enableCrashReporter": false,
   "nasc-touchbar.jumpToBracket": true,
-  "telemetry.enableTelemetry": false,
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
   "oneDarkPro.italic": false,
   "workbench.activityBar.visible": true,
@@ -101,5 +99,14 @@
   "editor.unicodeHighlight.allowedCharacters": {
     "’": true,
     "‘": true
-  }
+  },
+  "window.commandCenter": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  },
+  "editor.stickyScroll.enabled": true
 }
