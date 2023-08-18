@@ -75,7 +75,6 @@
   "editor.lineHeight": 25,
   "security.workspace.trust.untrustedFiles": "open",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "html.format.endWithNewline": true,
   "editor.renderControlCharacters": true,
   "editor.renderWhitespace": "all",
   "editor.tabSize": 2,
@@ -104,9 +103,14 @@
   "editor.inlineSuggest.enabled": true,
   "github.copilot.enable": {
     "*": true,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": true
+    "plaintext": true,
+    "markdown": false,
+    "scminput": false,
+    "yaml": false
   },
-  "editor.stickyScroll.enabled": true
+  "editor.stickyScroll.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "git.openRepositoryInParentFolders": "never",
+  "vscode-pets.theme": "forest",
+  "javascript.validate.enable": false,
 }
